@@ -1,0 +1,466 @@
+2024-09-23 22:07:45 -  - exec CUpdateClientPartner::SearchModulesEx
+2024-09-23 22:07:45 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:07:45 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&search_module_id=&search_module=&search_category=7%2C14&search_type=&search_order=DESC&search_order_by=SORT&search_page=1&SUPD_SRS=RU&SUPD_CMP=N
+2024-09-23 22:07:45 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:07:45 -  - TIME SearchModulesEx(request) 0.123 sec
+2024-09-23 22:07:45 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:07:45 - GUL02 - [LICENSE_NOT_FOUND] Лицензия не найдена
+2024-09-23 22:21:55 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:21:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:21:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.sitecorporate%2Cnan.cdekpay&SUPD_SRS=RU&SUPD_CMP=N
+2024-09-23 22:21:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:21:55 -  - TIME GetUpdatesList(request) 0.106 sec
+2024-09-23 22:21:55 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:22:13 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:22:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:22:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2024-09-23 22:22:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:22:13 -  - TIME GetUpdatesList(request) 0.081 sec
+2024-09-23 22:22:13 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:23:31 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:23:31 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:23:31 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2024-09-23 22:23:31 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:23:32 -  - TIME GetUpdatesList(request) 0.288 sec
+2024-09-23 22:23:32 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:23:38 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:23:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:23:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2024-09-23 22:23:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:23:38 -  - TIME GetUpdatesList(request) 0.06 sec
+2024-09-23 22:23:38 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:27:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:27:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:27:58 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:27:58 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:27:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:27:58 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2024-09-23 22:27:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:27:59 -  - TIME GetUpdatesList(request) 0.13 sec
+2024-09-23 22:27:59 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:27:59 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:27:59 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:27:59 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:24 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:28:24 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:24 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:24 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:25 -  - TIME GetUpdatesList(request) 0.151 sec
+2024-09-23 22:28:25 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:37 -  - TIME LoadModulesUpdates(request) 0.282 sec
+2024-09-23 22:28:37 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:37 - S - STEP
+2024-09-23 22:28:37 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:37 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:37 -  - loadFile
+2024-09-23 22:28:38 - U - RETURN
+2024-09-23 22:28:38 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:38 -  - TIME UnGzipArchive 0.176 sec
+2024-09-23 22:28:38 -  - TIME UpdateStepModules 0.169 sec
+2024-09-23 22:28:38 - UPD_SUCCESS - Updated: bitrix.eshop
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C15.5.1%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:39 -  - TIME LoadModulesUpdates(request) 0.159 sec
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:39 - S - STEP
+2024-09-23 22:28:39 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:39 -  - loadFile
+2024-09-23 22:28:39 - U - RETURN
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:39 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:39 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119719/bitrix.eshop/updater15.5.2.php'
+2024-09-23 22:28:39 -  - TIME UpdateStepModules 0.002 sec
+2024-09-23 22:28:39 - UPD_SUCCESS - Updated: bitrix.eshop (15.5.2)<br><li>Исправление ошибок.
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C15.5.2%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:39 -  - TIME LoadModulesUpdates(request) 0.115 sec
+2024-09-23 22:28:39 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:39 - S - STEP
+2024-09-23 22:28:39 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:40 -  - loadFile
+2024-09-23 22:28:40 - U - RETURN
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:40 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119720/bitrix.eshop/updater16.0.0.php'
+2024-09-23 22:28:40 -  - TIME UpdateStepModules 0.001 sec
+2024-09-23 22:28:40 - UPD_SUCCESS - Updated: bitrix.eshop (16.0.0)<br><li>Незначительные изменения.
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C16.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:40 -  - TIME LoadModulesUpdates(request) 0.138 sec
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:40 - S - STEP
+2024-09-23 22:28:40 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:40 -  - loadFile
+2024-09-23 22:28:40 - U - RETURN
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:40 -  - TIME UnGzipArchive 0.004 sec
+2024-09-23 22:28:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119720/bitrix.eshop/updater16.5.0.php'
+2024-09-23 22:28:40 -  - TIME UpdateStepModules 0.005 sec
+2024-09-23 22:28:40 - UPD_SUCCESS - Updated: bitrix.eshop (16.5.0)<br><li>Правки в мастере для новой версии магазина.
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C16.5.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:41 -  - TIME LoadModulesUpdates(request) 0.124 sec
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:41 - S - STEP
+2024-09-23 22:28:41 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:41 -  - loadFile
+2024-09-23 22:28:41 - U - RETURN
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:41 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:41 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119721/bitrix.eshop/updater16.5.1/index.php'
+2024-09-23 22:28:41 -  - TIME UpdateStepModules 0.002 sec
+2024-09-23 22:28:41 - UPD_SUCCESS - Updated: bitrix.eshop (16.5.1)<br><li>Незначительные изменения в демо-данных мастера.
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:41 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C16.5.1%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:41 -  - TIME LoadModulesUpdates(request) 0.119 sec
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:41 - S - STEP
+2024-09-23 22:28:41 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:41 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:41 -  - loadFile
+2024-09-23 22:28:42 - U - RETURN
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:42 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:42 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119722/bitrix.eshop/updater16.5.2.php'
+2024-09-23 22:28:42 -  - TIME UpdateStepModules 0.001 sec
+2024-09-23 22:28:42 - UPD_SUCCESS - Updated: bitrix.eshop (16.5.2)<br><li>Незначительные изменения в демо-данных мастера.
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:42 -  - TIME LoadModulesUpdates(request) 0.115 sec
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:42 - S - STEP
+2024-09-23 22:28:42 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:42 -  - loadFile
+2024-09-23 22:28:42 - U - RETURN
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:42 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:42 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119722/bitrix.eshop/updater16.5.3.php'
+2024-09-23 22:28:42 -  - TIME UpdateStepModules 0.002 sec
+2024-09-23 22:28:42 - UPD_SUCCESS - Updated: bitrix.eshop (16.5.3)<br><li>Добавлен новый комплексный компонент персонального раздела.
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C16.5.3%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:43 -  - TIME LoadModulesUpdates(request) 0.139 sec
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:43 - S - STEP
+2024-09-23 22:28:43 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:43 -  - loadFile
+2024-09-23 22:28:43 - U - RETURN
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:43 -  - TIME UnGzipArchive 0.002 sec
+2024-09-23 22:28:43 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119723/bitrix.eshop/updater16.5.4.php'
+2024-09-23 22:28:43 -  - TIME UpdateStepModules 0.003 sec
+2024-09-23 22:28:43 - UPD_SUCCESS - Updated: bitrix.eshop (16.5.4)<br><li>Незначительные доработки шаблона.
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:43 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:43 -  - TIME LoadModulesUpdates(request) 0.151 sec
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:43 - S - STEP
+2024-09-23 22:28:43 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:43 -  - loadFile
+2024-09-23 22:28:43 - U - RETURN
+2024-09-23 22:28:43 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:43 -  - TIME UnGzipArchive 0.006 sec
+2024-09-23 22:28:43 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119723/bitrix.eshop/updater17.0.0/index.php'
+2024-09-23 22:28:43 -  - TIME UpdateStepModules 0.005 sec
+2024-09-23 22:28:43 - UPD_SUCCESS - Updated: bitrix.eshop (17.0.0)<br><li>Исправлены ошибки создания демо-данных <li>Исправлены ошибки публичных страниц магазина <li>Исправлена ошибка в мастере настройки магазина при выборе всех служб доставки
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C17.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:44 -  - TIME LoadModulesUpdates(request) 0.113 sec
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:44 - S - STEP
+2024-09-23 22:28:44 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:44 -  - loadFile
+2024-09-23 22:28:44 - U - RETURN
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:44 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:44 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119724/bitrix.eshop/updater17.0.1.php'
+2024-09-23 22:28:44 -  - TIME UpdateStepModules 0.002 sec
+2024-09-23 22:28:44 - UPD_SUCCESS - Updated: bitrix.eshop (17.0.1)<br><li>Добавлена поддержка закона о персональных данных ФЗ-152 по умолчанию в компоненте sale.order.ajax.
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C17.0.1%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:44 -  - TIME LoadModulesUpdates(request) 0.107 sec
+2024-09-23 22:28:44 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:44 - S - STEP
+2024-09-23 22:28:44 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:45 -  - loadFile
+2024-09-23 22:28:45 - U - RETURN
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:45 -  - TIME UnGzipArchive 0.044 sec
+2024-09-23 22:28:45 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119725/bitrix.eshop/updater17.5.0.php'
+2024-09-23 22:28:45 -  - TIME UpdateStepModules 0.047 sec
+2024-09-23 22:28:45 - UPD_SUCCESS - Updated: bitrix.eshop (17.5.0)<br><li>Исправление ошибок.
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:45 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C17.5.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:45 -  - TIME LoadModulesUpdates(request) 0.122 sec
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:45 - S - STEP
+2024-09-23 22:28:45 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:45 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:45 -  - loadFile
+2024-09-23 22:28:46 - U - RETURN
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:46 -  - TIME UnGzipArchive 0.019 sec
+2024-09-23 22:28:46 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119726/bitrix.eshop/updater18.0.0/index.php'
+2024-09-23 22:28:46 -  - TIME UpdateStepModules 0.024 sec
+2024-09-23 22:28:46 - UPD_SUCCESS - Updated: bitrix.eshop (18.0.0)<br><li>Незначительно улучшена производительность мастера установки демо-данных. <li>В демо-данные добавлена поддержка настройки \"Использовать параметры свойств в компонентах и формах\" модуля инфоблоков. <li>Исправлены незначительные ошибки базовых шаблонов компонент модуля.
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:46 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C18.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:46 -  - TIME LoadModulesUpdates(request) 0.122 sec
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:46 - S - STEP
+2024-09-23 22:28:46 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:46 -  - loadFile
+2024-09-23 22:28:46 - U - RETURN
+2024-09-23 22:28:46 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:46 -  - TIME UnGzipArchive 0.013 sec
+2024-09-23 22:28:46 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119726/bitrix.eshop/updater18.5.0/index.php'
+2024-09-23 22:28:46 -  - TIME UpdateStepModules 0.016 sec
+2024-09-23 22:28:46 - UPD_SUCCESS - Updated: bitrix.eshop (18.5.0)<br><li>Обновлены местоположения в демо-данных. <li>При создании заказов демо-данных больше не отправляются уведомления. <li>Исправлена ошибка оплаты через Яндекс-деньги в решении. <li>Актуализированы ставки НДС. <li>Настройки форматирования валют берутся из модуля валют. <li>Исправлены ошибки верстки шаблонов компонент и сайта под bootstrap4. <li>Исправлены незначительные ошибки.
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C18.5.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:47 -  - TIME LoadModulesUpdates(request) 0.11 sec
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:47 - S - STEP
+2024-09-23 22:28:47 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:47 -  - loadFile
+2024-09-23 22:28:47 - U - RETURN
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:47 -  - TIME UnGzipArchive 0.003 sec
+2024-09-23 22:28:47 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119727/bitrix.eshop/updater20.5.0.php'
+2024-09-23 22:28:47 -  - TIME UpdateStepModules 0.005 sec
+2024-09-23 22:28:47 - UPD_SUCCESS - Updated: bitrix.eshop (20.5.0)<br><li>Незначительные исправления. 
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C20.5.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:47 -  - TIME LoadModulesUpdates(request) 0.117 sec
+2024-09-23 22:28:47 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:47 - S - STEP
+2024-09-23 22:28:47 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:48 -  - loadFile
+2024-09-23 22:28:48 - U - RETURN
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:48 -  - TIME UnGzipArchive 0.007 sec
+2024-09-23 22:28:48 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119728/bitrix.eshop/updater21.0.0.php'
+2024-09-23 22:28:48 -  - TIME UpdateStepModules 0.007 sec
+2024-09-23 22:28:48 - UPD_SUCCESS - Updated: bitrix.eshop (21.0.0)<br><li>Улучшена совместимость с PHP 8.
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:48 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C21.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:48 -  - TIME LoadModulesUpdates(request) 0.117 sec
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:48 - S - STEP
+2024-09-23 22:28:48 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:48 -  - loadFile
+2024-09-23 22:28:48 - U - RETURN
+2024-09-23 22:28:48 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:48 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:48 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119728/bitrix.eshop/updater21.0.100.php'
+2024-09-23 22:28:48 -  - TIME UpdateStepModules 0.001 sec
+2024-09-23 22:28:48 - UPD_SUCCESS - Updated: bitrix.eshop (21.0.100)<br><li>Незначительные исправления. 
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:49 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C21.0.100%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:49 -  - TIME LoadModulesUpdates(request) 0.12 sec
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:49 - S - STEP
+2024-09-23 22:28:49 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:49 -  - loadFile
+2024-09-23 22:28:49 - U - RETURN
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:49 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:49 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119729/bitrix.eshop/updater21.0.200.php'
+2024-09-23 22:28:49 -  - TIME UpdateStepModules 0.001 sec
+2024-09-23 22:28:49 - UPD_SUCCESS - Updated: bitrix.eshop (21.0.200)<br><li>Добавлена возможность отправлять события на Facebook для создания рекламных аудиторий
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:49 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C21.0.200%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:49 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:50 -  - TIME LoadModulesUpdates(request) 0.911 sec
+2024-09-23 22:28:50 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:50 - S - STEP
+2024-09-23 22:28:50 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:50 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:50 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:50 -  - loadFile
+2024-09-23 22:28:50 - U - RETURN
+2024-09-23 22:28:50 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:50 -  - TIME UnGzipArchive 0.019 sec
+2024-09-23 22:28:50 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119730/bitrix.eshop/updater22.0.0.php'
+2024-09-23 22:28:50 -  - TIME UpdateStepModules 0.016 sec
+2024-09-23 22:28:50 - UPD_SUCCESS - Updated: bitrix.eshop (22.0.0)<br><li>Незначительные исправления. 
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:51 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C22.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:51 -  - TIME LoadModulesUpdates(request) 0.134 sec
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:51 - S - STEP
+2024-09-23 22:28:51 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:51 -  - loadFile
+2024-09-23 22:28:51 - U - RETURN
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:51 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:51 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119731/bitrix.eshop/updater22.100.0.php'
+2024-09-23 22:28:51 -  - TIME UpdateStepModules 0.001 sec
+2024-09-23 22:28:51 - UPD_SUCCESS - Updated: bitrix.eshop (22.100.0)<br><li>Улучшена совместимость мастера установки с php 8.
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:51 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C22.100.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:51 -  - TIME LoadModulesUpdates(request) 0.114 sec
+2024-09-23 22:28:51 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:51 - S - STEP
+2024-09-23 22:28:51 - LMU01 - LoadModulesUpdates-Step
+2024-09-23 22:28:52 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:52 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:52 -  - loadFile
+2024-09-23 22:28:52 - U - RETURN
+2024-09-23 22:28:52 -  - exec CUpdateClientPartner::UnGzipArchive
+2024-09-23 22:28:52 -  - TIME UnGzipArchive 0.001 sec
+2024-09-23 22:28:52 - CSURUS1 - Run updater '/bitrix/updates/update_m1727119732/bitrix.eshop/updater23.0.0/index.php'
+2024-09-23 22:28:52 -  - TIME UpdateStepModules 0.002 sec
+2024-09-23 22:28:52 - UPD_SUCCESS - Updated: bitrix.eshop (23.0.0)<br><li>Добавлена поддержка PostgreSQL.
+2024-09-23 22:28:52 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:28:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:28:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:28:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:28:52 -  - TIME LoadModulesUpdates(request) 0.132 sec
+2024-09-23 22:28:52 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:28:52 - LMU005 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:28:52 - CL02 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:28:52 - UPD_ERROR - Error: [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:30:02 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:30:02 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:30:02 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:30:02 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:30:02 -  - TIME GetUpdatesList(request) 0.181 sec
+2024-09-23 22:30:02 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:30:08 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:30:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:30:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:30:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:30:08 -  - TIME GetUpdatesList(request) 0.14 sec
+2024-09-23 22:30:08 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:30:12 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:30:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:30:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:30:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:30:12 -  - TIME LoadModulesUpdates(request) 0.133 sec
+2024-09-23 22:30:12 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:30:12 - LMU005 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;[UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:30:12 - CL02 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;[UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:30:12 - UPD_ERROR - Error: [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;[UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:30:37 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:30:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:30:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:30:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:30:37 -  - TIME GetUpdatesList(request) 0.277 sec
+2024-09-23 22:30:37 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:30:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:30:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:30:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:30:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:30:40 -  - TIME LoadModulesUpdates(request) 0.145 sec
+2024-09-23 22:30:40 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:30:40 - LMU005 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;[UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:30:40 - CL02 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;[UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:30:40 - UPD_ERROR - Error: [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;[UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:30:44 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:30:44 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:30:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:30:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:30:44 -  - TIME GetUpdatesList(request) 0.132 sec
+2024-09-23 22:30:44 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:32:28 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:32:28 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:32:28 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:32:28 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:32:28 -  - TIME GetUpdatesList(request) 0.142 sec
+2024-09-23 22:32:28 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:32:32 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:32:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:32:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:32:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:32:32 -  - TIME GetUpdatesList(request) 0.124 sec
+2024-09-23 22:32:32 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:32:36 -  - exec CUpdateClientPartner::GetUpdatesList
+2024-09-23 22:32:36 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:32:36 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:32:36 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:32:36 -  - TIME GetUpdatesList(request) 0.11 sec
+2024-09-23 22:32:36 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:32:48 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2024-09-23 22:32:48 -  - exec CUpdateClientPartner::__CollectRequestData
+2024-09-23 22:32:48 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=1&TYPENC=D&CLIENT_PHPVER=8.0.30&NGINX=Y&dbv=8.0.34&instm=main%2C23.300.100%2CY%3Blocation%2C23.0.0%2CN%3Blanding%2C23.600.100%2CN%3Bclouds%2C23.0.0%2CN%3Bperfmon%2C21.0.0%2CN%3Bbitrix.eshop%2C23.0.0%2CN%3Brest%2C23.100.0%2CN%3Btranslate%2C23.200.0%2CN%3Biblock%2C23.100.0%2CN%3Bfileman%2C22.300.0%2CN%3Bmessageservice%2C23.0.0%2CN%3Bb24connector%2C22.0.0%2CN%3Bhighloadblock%2C22.200.0%2CN%3Bbitrixcloud%2C22.100.0%2CN%3Bsocialservices%2C22.200.400%2CN%3Bui%2C22.1600.0%2CN%3Bsearch%2C22.100.0%2CN%3Bbitrix.sitecorporate%2C15.5.0%2CN%3Bseo%2C23.200.0%2CN&reqm=bitrix.eshop&lim=Y&SUPD_SRS=RU&SUPD_CMP=Y
+2024-09-23 22:32:48 -  - exec CUpdateClientPartner::GetHTTPPage
+2024-09-23 22:32:48 -  - TIME LoadModulesUpdates(request) 0.136 sec
+2024-09-23 22:32:48 -  - exec CUpdateClientPartner::ParseServerData
+2024-09-23 22:32:48 - LMU005 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:32:48 - CL02 - [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;
+2024-09-23 22:32:48 - UPD_ERROR - Error: [UNAVAIL] Перед установкой обновления вам необходимо обновить модуль &#039;main&#039;

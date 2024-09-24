@@ -1,0 +1,76 @@
+2024-09-23 22:25:34 -  - exec CUpdateClient::GetUpdatesList
+2024-09-23 22:25:34 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:25:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-09-23 22:25:34 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:25:34 -  - TIME GetUpdatesList(request) 0.292 sec
+2024-09-23 22:25:34 -  - exec CUpdateClient::ParseServerData
+2024-09-23 22:25:34 -  - exec CUpdateClient::executeCounters
+2024-09-23 22:25:34 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:25:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2024-09-23 22:25:34 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:25:35 -  - TIME executeCounters 0.061 sec
+2024-09-23 22:27:59 -  - exec CUpdateClient::GetUpdatesList
+2024-09-23 22:27:59 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:27:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-09-23 22:27:59 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:27:59 -  - TIME GetUpdatesList(request) 0.072 sec
+2024-09-23 22:27:59 -  - exec CUpdateClient::ParseServerData
+2024-09-23 22:27:59 -  - exec CUpdateClient::executeCounters
+2024-09-23 22:27:59 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:27:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2024-09-23 22:27:59 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:27:59 -  - TIME executeCounters 0.111 sec
+2024-09-23 22:28:02 -  - exec CUpdateClient::UpdateUpdate
+2024-09-23 22:28:02 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:28:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=updateupdate
+2024-09-23 22:28:02 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:28:02 -  - TIME UpdateUpdate(request) 0.366 sec
+2024-09-23 22:28:02 -  - exec CUpdateClient::UnGzipArchive
+2024-09-23 22:28:02 -  - TIME UnGzipArchive 0.003 sec
+2024-09-23 22:28:02 -  - exec CUpdateClient::ParseServerData
+2024-09-23 22:28:03 - CURV - Update updated successfully!
+2024-09-23 22:28:03 - UPD_SUCCESS - Update system updated
+2024-09-23 22:28:03 -  - exec CUpdateClient::GetUpdatesList
+2024-09-23 22:28:03 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:28:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&SERVER_NAME=&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-09-23 22:28:03 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:28:03 -  - TIME GetUpdatesList(request) 0.076 sec
+2024-09-23 22:28:03 -  - exec CUpdateClient::ParseServerData
+2024-09-23 22:28:03 -  - exec CUpdateClient::executeCounters
+2024-09-23 22:28:03 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:28:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&SERVER_NAME=&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[438]=X
+2024-09-23 22:28:03 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:28:03 -  - TIME executeCounters 0.064 sec
+2024-09-23 22:28:03 -  - exec CUpdateClient::RegisterVersion
+2024-09-23 22:28:03 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:28:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&SERVER_NAME=&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=register
+2024-09-23 22:28:03 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:28:03 -  - TIME RegisterVersion(request) 0.1 sec
+2024-09-23 22:28:03 -  - exec CUpdateClient::UnGzipArchive
+2024-09-23 22:28:03 -  - TIME UnGzipArchive 0 sec
+2024-09-23 22:28:03 -  - exec CUpdateClient::ParseServerData
+2024-09-23 22:28:03 - CURV - Product registered successfully!
+2024-09-23 22:28:03 -  - Include repaired
+2024-09-23 22:28:03 -  - exec CUpdateClient::GetUpdatesList
+2024-09-23 22:28:03 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:28:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&SERVER_NAME=&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_PIBC=4&SUPD_PUC=1&SUPD_PSC=1&SUPD_SRS=RU&SUPD_CMP=Y&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-09-23 22:28:03 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:28:03 -  - TIME GetUpdatesList(request) 0.072 sec
+2024-09-23 22:28:03 -  - exec CUpdateClient::ParseServerData
+2024-09-23 22:28:03 -  - exec CUpdateClient::executeCounters
+2024-09-23 22:28:03 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:28:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&SERVER_NAME=&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_PIBC=4&SUPD_PUC=1&SUPD_PSC=1&SUPD_SRS=RU&SUPD_CMP=Y&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[440]=X&cntr_result[442]=&cntr_result[444]=&cntr_result[450]=N&cntr_result[452]=N
+2024-09-23 22:28:03 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:28:03 -  - TIME executeCounters 0.066 sec
+2024-09-23 22:31:08 -  - exec CUpdateClient::GetUpdatesList
+2024-09-23 22:31:08 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:31:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&SERVER_NAME=&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_PIBC=4&SUPD_PUC=1&SUPD_PSC=1&SUPD_SRS=RU&SUPD_CMP=Y&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-09-23 22:31:08 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:31:08 -  - TIME GetUpdatesList(request) 0.074 sec
+2024-09-23 22:31:08 -  - exec CUpdateClient::ParseServerData
+2024-09-23 22:31:18 -  - exec CUpdateClient::GetUpdatesList
+2024-09-23 22:31:18 -  - exec CUpdateClient::CollectRequestData
+2024-09-23 22:31:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=24.0.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=frozyg5m.beget.tech&SERVER_NAME=&CHHB=frozyg5m.beget.tech&CSAB=91.106.207.20&SUID=u703uyvmqz77zmtmo0ice8326uj7s99p&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_location=23.0.0&bitm_landing=23.600.100&bitm_clouds=23.0.0&bitm_perfmon=21.0.0&bitm_rest=23.100.0&bitm_translate=23.200.0&bitm_iblock=23.100.0&bitm_fileman=22.300.0&bitm_messageservice=23.0.0&bitm_b24connector=22.0.0&bitm_highloadblock=22.200.0&bitm_bitrixcloud=22.100.0&bitm_socialservices=22.200.400&bitm_ui=22.1600.0&bitm_search=22.100.0&bitm_seo=23.200.0&bitl_ru=&bitl_en=&SUPD_PIBC=4&SUPD_PUC=1&SUPD_PSC=1&SUPD_SRS=RU&SUPD_CMP=Y&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2024-09-23 22:31:18 -  - exec CUpdateClient::GetHTTPPage
+2024-09-23 22:31:18 -  - TIME GetUpdatesList(request) 0.078 sec
+2024-09-23 22:31:18 -  - exec CUpdateClient::ParseServerData
